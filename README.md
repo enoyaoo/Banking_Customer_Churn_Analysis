@@ -1,8 +1,8 @@
-# Heart Attack Prediction
+# Banking Customer Churn Analysis
 
 
 ## Overview
-This project aims to analyze the Customer Churn of a Bank.
+This project aims to analyze the Customer Churn of a Bank with the aid of visualization by Tableau.
 
 
 ## Data
