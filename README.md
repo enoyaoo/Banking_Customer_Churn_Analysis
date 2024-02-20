@@ -1,4 +1,4 @@
-![image](https://github.com/enoyaoo/Banking_Customer_Churn_Analysis/assets/148920161/745a459d-f800-4d61-9bfe-eb0c1c26a4cc)# Heart Attack Prediction
+# Heart Attack Prediction
 
 
 ## Overview
